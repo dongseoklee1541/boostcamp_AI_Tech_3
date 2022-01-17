@@ -2,6 +2,16 @@
 
 부스트 캠퍼 이동석
 
-## RecSys 과정
+## Level-1 
 
-PART-1 (공통과정)
+### U-Stage
+1주차~5주차
+
+### P-Stage
+6~7주차
+
+## Level-2
+
+### RecSys 과정
+
+
