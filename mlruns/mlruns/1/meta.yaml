@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/dlsef/git/boostcamp_AI_Tech_3/mlruns/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: my-first-experiment
