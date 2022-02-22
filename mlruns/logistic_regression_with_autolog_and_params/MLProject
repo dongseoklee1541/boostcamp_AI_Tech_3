@@ -1,0 +1,15 @@
+name: tutorial
+
+entry_points:
+    main:
+        paramaters:
+            solver:
+                type: string
+                default: "saga"
+            penalty:
+                type: string
+                default: "l2"
+            l1_ratio:
+                type: float
+                default: 0.1
+        command: "python3 train.py {solver} {penalty} {l1_ratio}"
